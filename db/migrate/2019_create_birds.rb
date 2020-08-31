@@ -1,4 +1,3 @@
-# Add code from Readmeclass 
 CreateBirds < ActiveRecord::Migration[5.2]
   def change
     create_table :birds do |t|
